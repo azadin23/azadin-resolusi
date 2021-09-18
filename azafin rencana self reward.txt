@@ -1,6 +1,7 @@
 -jogging 1 
   *selama 1 jam
   *sekalian push up
+  *jalan santai
 -makan tahu walik
   *5k
   *3k
