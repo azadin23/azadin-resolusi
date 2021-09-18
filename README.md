@@ -1,0 +1,1 @@
+# azadin-resolusi
