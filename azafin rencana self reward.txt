@@ -1,4 +1,6 @@
--jogging
+-jogging 1 
+  *selama 1 jam
 -makan tahu walik
+  *5k
 -makan makanan mahal
 -nonton film menarique
