@@ -1,7 +1,10 @@
 -jogging 1 
   *selama 1 jam
+  *sekalian push up
 -makan tahu walik
   *5k
+  *3k
 -beli netlix
 -makan makanan mahal
 -nonton film menarique
+-beli boba
